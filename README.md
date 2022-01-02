@@ -5,8 +5,7 @@
 > ### About me
 - 💻 I’m currently studying in Algonquin College for Mobile application design & development.  
 - 🌱 Currently learning everything. 
-- 👯 I’m looking to collaborate with other creators. 
-- 😄 Pronouns: She/Her
+- 👯 I’m always welcoming to collaborate with other creators. 
 - 💬 Interests: Traveling, Photography, Watching movies/TV shows, Lego, Coffee 
 - ✅ Check out my website <a href="https://yoonak.com">yoonak.com</a>
 
