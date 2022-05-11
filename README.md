@@ -3,7 +3,7 @@
 <br/>
 
 > ### About me
-- 💻 I’m currently studying in Algonquin College for Mobile application design & development.  
+- 💻 I’m recently graduated in Algonquin College for Mobile Application Design & Development.  
 - 🌱 Currently learning everything. 
 - 👯 I’m always welcoming to collaborate with other creators. 
 - 💬 Interests: Traveling, Photography, Watching movies/TV shows, Lego, Coffee 
