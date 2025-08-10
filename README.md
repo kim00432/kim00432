@@ -7,7 +7,7 @@
 - 🌱 Currently learning everything. 
 - 👯 I’m always welcoming to collaborate with other creators. 
 - 💬 Interests: Traveling, Photography, Watching movies/TV shows, Lego, Coffee 
-- ✅ Check out my website <a href="https://itsyoona.netlify.app">yoonak.com</a>
+- ✅ Check out my website <a href="https://itsyoona.netlify.app">itsyoona.netlify.app</a>
 
 <br/>
 
