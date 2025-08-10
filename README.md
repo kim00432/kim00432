@@ -7,24 +7,24 @@
 - 🌱 Currently learning everything. 
 - 👯 I’m always welcoming to collaborate with other creators. 
 - 💬 Interests: Traveling, Photography, Watching movies/TV shows, Lego, Coffee 
-- ✅ Check out my website <a href="https://yoonak.com">yoonak.com</a>
+- ✅ Check out my website <a href="https://itsyoona.netlify.app">yoonak.com</a>
 
 <br/>
 
 > ### Connect with me
 <p>
-  <a href="mailto:isyoonakim@gmail.com">
+  <a href="mailto:itsyoona.dev@gmail.com">
     <img align="left" alt="Yoona's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/yoona-k/">
+  <a href="https://www.linkedin.com/in/itsyoona/">
     <img align="left" alt="Yoona's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://instagram.com/__yoonak/">
+<!--   <a href="https://instagram.com/__yoonak/">
     <img align="left" alt="Yoona's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://www.facebook.com/imyoonak/">
+  </a> -->
+<!--   <a href="https://www.facebook.com/imyoonak/">
     <img align="left" alt="Yoona's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  </a>
+  </a> -->
 </p>
 
 <br/>
